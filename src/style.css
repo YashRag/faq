@@ -21,7 +21,7 @@ html {
     color: white;
   }
   
-  button {
+  #button {
     background: rgb(211, 216, 253);
     color: rgb(10, 27, 184);
     border: 2px solid rgb(10, 27, 184);
